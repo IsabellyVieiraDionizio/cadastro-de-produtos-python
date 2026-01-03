@@ -17,6 +17,8 @@ Projeto criado com foco em aprendizado prático, organização de código e boas
 - Integração com banco de dados SQL Server
 - Arquitetura em camadas (DAO, Service, Database)
 
+---
+
 **Screenshots**
 - Tela Principal do cadastro de produtos.
 
